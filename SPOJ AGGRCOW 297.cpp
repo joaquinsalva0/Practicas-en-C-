@@ -2,6 +2,8 @@
 #include  <vector>
 #include <algorithm>
 
+# https://www.spoj.com/problems/AGGRCOW/
+
 using namespace std;
 
 /*
