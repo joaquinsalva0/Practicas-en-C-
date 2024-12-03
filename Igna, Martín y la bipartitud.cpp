@@ -3,7 +3,7 @@
 #include <vector>
 #include <stack>
 
-#
+#https://github.com/joaquinsalva/Recursos/blob/main/Problem%20-%20B%20-%20Codeforces.pdf
 
 //Creamos la clase vertice para parsear la entrada en un vector de pilas de adyacencias donde
 //la posicion i del vector da Adj(vi).
